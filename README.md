@@ -4,5 +4,5 @@ A whiteboard drawing software that is focused on simplicity. Designed with our o
 
 Neutron is not under active developement. Feel free to report errors in the issues section or contribute something as a pull request.
 
-- [ ] direct access: https://tafel.netlify.app/online/
-- [ ] website: https://tafel.netlify.app/
+- direct access: https://tafel.netlify.app/online/
+- website: https://tafel.netlify.app/
